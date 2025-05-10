@@ -9,18 +9,23 @@
 3. ✅**Saved Lists** – completed lists you might want to revisit  
 
 
-## 🎥 Taskins Screens
+## 📱 App Screenshots
 
-![Splash Screen Demo](spalshScreen-ezgif.com-video-to-gif-converter.gif)  
-![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.mov)  
-![Alert Dialog Demo](alertdialog-ezgif.com-video-to-gif-converter.gif)  
-![Drawer Demo](drawer-ezgif.com-video-to-gif-converter.gif)  
-![Confetti Demo](confetti-ezgif.com-video-speed.mov)  
-![Animate Demo](animate-ezgif.com-video-to-gif-converter.mov)  
-![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.mov)  
-![Page View Demo](pageView-ezgif.com-video-to-gif-converter.mov)  
-![Bottom Sheet Demo](bottomsheet-ezgif.com-video-to-gif-converter.mov)  
-![Tabs Demo](tabs-ezgif.com-video-to-gif-converter.mov)  
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.46.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.43.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.50.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.01.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.05.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.07.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.12.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.16.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.20.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.24.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.27.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.29.png" width="200">
+    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.33.png" width="200">
+</div>
 
 
 
