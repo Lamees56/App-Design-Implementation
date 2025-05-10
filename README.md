@@ -11,18 +11,50 @@
 
 ## 🎥 Taskins Screens
 
-### 🎥 Taskins Screens
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-- [Navbar](taskins-screens/Navbar.mp4)  
-- [Alert Dialog](taskins-screens/alertdialog.mp4)  
-- [Animate](taskins-screens/animate.mp4)  
-- [Bottom Sheet](taskins-screens/bottomsheet.mp4)  
-- [Confetti](taskins-screens/confetti.mp4)  
-- [Drawer](taskins-screens/drawer.mp4)  
-- [Login/Sign Up](taskins-screens/loginSignUp.mp4)  
-- [Page View](taskins-screens/pageView.mp4)  
-- [Splash Screen](taskins-screens/splashScreen.mp4)  
-- [Tabs](taskins-screens/tabs.mp4)  
+<video width="300" controls>
+  <source src="taskins-screens/Navbar.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/alertdialog.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/animate.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/bottomsheet.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/confetti.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/drawer.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/loginSignUp.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/pageView.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/splashScreen.mp4" type="video/mp4">
+</video>
+
+<video width="300" controls>
+  <source src="taskins-screens/tabs.mp4" type="video/mp4">
+</video>
+
+</div>
+
 
 
 
