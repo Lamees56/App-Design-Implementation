@@ -11,20 +11,28 @@
 
 ## 📱 App Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.46.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.43.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.50.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.01.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.05.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.07.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.12.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.16.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.20.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.24.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.27.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.29.png" width="200">
-    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.33.png" width="200">
+<div style="
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 15px; 
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.46.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.43.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.50.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.01.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.05.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.07.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.12.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.16.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.20.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.24.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.27.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.29.png" style="width: 100%; border-radius: 15px;">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.33.png" style="width: 100%; border-radius: 15px;">
 </div>
 
 
