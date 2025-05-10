@@ -1,4 +1,4 @@
-#  ✨ **Taskins** ✨ Mobile App 📱
+#  ✨ **Taskins** Mobile App 📱  ✨
 
 
 ## 📝 What is Taskins?
@@ -11,73 +11,57 @@
 
 ## 🎥 Taskins Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+### 🎥 Taskins Screens
 
-<gif width="300" controls>
-  <source src="taskins-screens/Navbar.mp4" type="video/mp4">
-
-</gif>
-
-<video width="300" controls>
-  <source src="taskins-screens/alertdialog.mp4" type="video/mp4">
-
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/animate.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/bottomsheet.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/confetti.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/drawer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/loginSignUp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/pageView.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/splashScreen.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="300" controls>
-  <source src="taskins-screens/tabs.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</div>
-
-
-##  Widgets used ✅
+- [Navbar](taskins-screens/Navbar.mp4)  
+- [Alert Dialog](taskins-screens/alertdialog.mp4)  
+- [Animate](taskins-screens/animate.mp4)  
+- [Bottom Sheet](taskins-screens/bottomsheet.mp4)  
+- [Confetti](taskins-screens/confetti.mp4)  
+- [Drawer](taskins-screens/drawer.mp4)  
+- [Login/Sign Up](taskins-screens/loginSignUp.mp4)  
+- [Page View](taskins-screens/pageView.mp4)  
+- [Splash Screen](taskins-screens/splashScreen.mp4)  
+- [Tabs](taskins-screens/tabs.mp4)  
 
 
 
-##  External packages used ✅
+## ✅  Widgets used 
+
++ Navbar
++ Drawer
++ Bottom Sheet
++ AlertDialog
++ TextField
++ pageView
++ TbBar and TabBarView
 
 
+
+## ✅ External packages used 
+
++ shimmer
++ animate
++ confetti 
+
+
+## 🚀 How to Run the Taskins App
+
++ **📦 Prerequisites**  
+  + Flutter SDK installed ([Download Flutter](https://docs.flutter.dev/get-started/install))  
+  + Dart installed (usually included with Flutter)  
+  + Git installed ([Download Git](https://git-scm.com/downloads))  
+  + An Android Emulator, iOS Simulator, or a physical device connected  
+
++ **🛠️ Clone the Repository**  
+  ```bash
+  git clone https://github.com/Lamees56/App-Design-Implementation.git
+  cd App-Design-Implementation
 
 
 ---
 
-## ✨ Final Note
+## ✨ Author 👩‍💻 💻
 
-> "Good luck, and have fun creating your app!" 🎨📱
+Lamees Al-Amri 
 
