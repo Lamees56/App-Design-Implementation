@@ -11,49 +11,36 @@
 
 ## 🎥 Taskins Screens
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+#### Navbar
+[![Navbar Video](taskins-screens/Navbar.mp4)](taskins-screens/Navbar.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/Navbar.mp4" type="video/mp4">
-</video>
+#### Alert Dialog
+[![Alert Dialog Video](taskins-screens/alertdialog.mp4)](taskins-screens/alertdialog.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/alertdialog.mp4" type="video/mp4">
-</video>
+#### Animate
+[![Animate Video](taskins-screens/animate.mp4)](taskins-screens/animate.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/animate.mp4" type="video/mp4">
-</video>
+#### Bottom Sheet
+[![Bottom Sheet Video](taskins-screens/bottomsheet.mp4)](taskins-screens/bottomsheet.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/bottomsheet.mp4" type="video/mp4">
-</video>
+#### Confetti
+[![Confetti Video](taskins-screens/confetti.mp4)](taskins-screens/confetti.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/confetti.mp4" type="video/mp4">
-</video>
+#### Drawer
+[![Drawer Video](taskins-screens/drawer.mp4)](taskins-screens/drawer.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/drawer.mp4" type="video/mp4">
-</video>
+#### Login/Sign Up
+[![Login/Sign Up Video](taskins-screens/loginSignUp.mp4)](taskins-screens/loginSignUp.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/loginSignUp.mp4" type="video/mp4">
-</video>
+#### Page View
+[![Page View Video](taskins-screens/pageView.mp4)](taskins-screens/pageView.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/pageView.mp4" type="video/mp4">
-</video>
+#### Splash Screen
+[![Splash Screen Video](taskins-screens/splashScreen.mp4)](taskins-screens/splashScreen.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/splashScreen.mp4" type="video/mp4">
-</video>
+#### Tabs
+[![Tabs Video](taskins-screens/tabs.mp4)](taskins-screens/tabs.mp4)
 
-<video width="300" controls>
-  <source src="taskins-screens/tabs.mp4" type="video/mp4">
-</video>
-
-</div>
 
 
 
