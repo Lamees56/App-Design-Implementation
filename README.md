@@ -12,19 +12,19 @@
 ## 📱 App Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.46.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.43.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.50.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.01.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.05.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.07.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.12.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.16.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.20.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.24.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.27.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.29.png" width="200">
-    <img src="screenshots/Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.33.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.46.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.43.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.28.50.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.01.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.05.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.07.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.12.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.16.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.20.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.24.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.27.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.29.png" width="200">
+    <img src="Simulator Screenshot - iPhone 13 Pro Max - 2025-05-10 at 12.29.33.png" width="200">
 </div>
 
 
