@@ -3,7 +3,7 @@
 
 ## ✅ what is **Taskins**?
 
-✨ **Taskins** is your go-to app for beating stress and staying on top of your to-dos! ✅ 
+ **Taskins** is your go-to app for beating stress and staying on top of your to-dos! 
 It’s designed to help you manage tasks without overwhelm, with a touch of gamification:
 
 📝 **Active Lists** – your current to-dos  
@@ -49,7 +49,7 @@ It’s designed to help you manage tasks without overwhelm, with a touch of gami
 + confetti 
 
 
-## 🚀 How to Run the Taskins App
+## ✅ How to Run the Taskins App
 
 + **📦 Prerequisites**  
   + Flutter SDK installed ([Download Flutter](https://docs.flutter.dev/get-started/install))  
@@ -65,7 +65,7 @@ It’s designed to help you manage tasks without overwhelm, with a touch of gami
 
 ---
 
-## ✨ Author 👩‍💻 💻
+## ✅ Author 👩‍💻 💻
 
 Lamees Al-Amri 
 
