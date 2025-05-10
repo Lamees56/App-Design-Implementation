@@ -11,14 +11,12 @@
 
 ## 🎥 Taskins Screens
 
-
-
+![Splash Screen Demo](splashScreen-ezgif.com-video-to-gif-converter.gif)  
+![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.mov)  
 ![Alert Dialog Demo](alertdialog-ezgif.com-video-to-gif-converter.gif)  
 ![Drawer Demo](drawer-ezgif.com-video-to-gif-converter.gif)  
-![Confetti Demo](confetti-ezgif.com-video-to-gif-converter.mov)  
-![Splash Screen Demo](splashScreen-ezgif.com-video-to-gif-converter.gif)  
+![Confetti Demo](confetti-ezgif.com-gif-maker.mov)  
 ![Animate Demo](animate-ezgif.com-video-to-gif-converter.mov)  
-![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.mov)  
 ![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.mov)  
 ![Page View Demo](pageView-ezgif.com-video-to-gif-converter.mov)  
 ![Bottom Sheet Demo](bottomsheet-ezgif.com-video-to-gif-converter.mov)  
