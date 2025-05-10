@@ -19,9 +19,9 @@
 ![Splash Screen Demo](splashScreen-ezgif.com-video-to-gif-converter.gif)  
 ![Animate Demo](animate-ezgif.com-video-to-gif-converter.gif)  
 ![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.gif)  
-![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.gif)  
-![Page View Demo](pageView-ezgif.com-video-to-gif-converter.gif)  
-![Bottom Sheet Demo](bottomsheet-ezgif.com-video-to-gif-converter.gif)  
+![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.mov)  
+![Page View Demo](pageView-ezgif.com-video-to-gif-converter.mov)  
+![Bottom Sheet Demo](bottomsheet-ezgif.com-video-to-gif-converter.mov)  
 
 
 
