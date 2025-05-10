@@ -11,35 +11,62 @@
 
 ## 🎥 Taskins Screens
 
-#### Navbar
-[![Navbar Video](taskins-screens/Navbar.mp4)](taskins-screens/Navbar.mp4)
+### 🎥 Taskins Screen Demos
 
-#### Alert Dialog
-[![Alert Dialog Video](taskins-screens/alertdialog.mp4)](taskins-screens/alertdialog.mp4)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-#### Animate
-[![Animate Video](taskins-screens/animate.mp4)](taskins-screens/animate.mp4)
+<div>
+<h4>Navbar</h4>
+<img src="taskins-screens/Navbar.gif" width="300">
+</div>
 
-#### Bottom Sheet
-[![Bottom Sheet Video](taskins-screens/bottomsheet.mp4)](taskins-screens/bottomsheet.mp4)
+<div>
+<h4>Alert Dialog</h4>
+<img src="taskins-screens/alertdialog.gif" width="300">
+</div>
 
-#### Confetti
-[![Confetti Video](taskins-screens/confetti.mp4)](taskins-screens/confetti.mp4)
+<div>
+<h4>Animate</h4>
+<img src="taskins-screens/animate.gif" width="300">
+</div>
 
-#### Drawer
-[![Drawer Video](taskins-screens/drawer.mp4)](taskins-screens/drawer.mp4)
+<div>
+<h4>Bottom Sheet</h4>
+<img src="taskins-screens/bottomsheet.gif" width="300">
+</div>
 
-#### Login/Sign Up
-[![Login/Sign Up Video](taskins-screens/loginSignUp.mp4)](taskins-screens/loginSignUp.mp4)
+<div>
+<h4>Confetti</h4>
+<img src="taskins-screens/confetti.gif" width="300">
+</div>
 
-#### Page View
-[![Page View Video](taskins-screens/pageView.mp4)](taskins-screens/pageView.mp4)
+<div>
+<h4>Drawer</h4>
+<img src="taskins-screens/drawer.gif" width="300">
+</div>
 
-#### Splash Screen
-[![Splash Screen Video](taskins-screens/splashScreen.mp4)](taskins-screens/splashScreen.mp4)
+<div>
+<h4>Login/Sign Up</h4>
+<img src="taskins-screens/loginSignUp.gif" width="300">
+</div>
 
-#### Tabs
-[![Tabs Video](taskins-screens/tabs.mp4)](taskins-screens/tabs.mp4)
+<div>
+<h4>Page View</h4>
+<img src="taskins-screens/pageView.gif" width="300">
+</div>
+
+<div>
+<h4>Splash Screen</h4>
+<img src="taskins-screens/splashScreen.gif" width="300">
+</div>
+
+<div>
+<h4>Tabs</h4>
+<img src="taskins-screens/tabs.gif" width="300">
+</div>
+
+</div>
+
 
 
 
