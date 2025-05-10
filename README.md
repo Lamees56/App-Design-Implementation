@@ -1,12 +1,14 @@
 #  ✨ **Taskins** Mobile App 📱  ✨
 
 
-✨ **Taskins** is your go-to app for beating stress and staying on top of your to-dos! ✅ It’s designed to help you manage tasks without overwhelm, with a touch of gamification:
+## ✅ what is **Taskins**?
+
+✨ **Taskins** is your go-to app for beating stress and staying on top of your to-dos! ✅ 
+It’s designed to help you manage tasks without overwhelm, with a touch of gamification:
 
 📝 **Active Lists** – your current to-dos  
 🕒 **Pending Lists** – paused projects you plan to finish  
 ✅ **Saved Lists** – completed lists you might want to revisit  
-
 🎉 **Gamification:** Celebrate every small win with confetti when you check off a task.  
 🌱 **Wind Down:** The Explore page includes relaxing activities like journaling, breathing techniques, and mini-games.  
 👥 **Social Touch:** Stay connected with your friends and track your history in the profile section.
