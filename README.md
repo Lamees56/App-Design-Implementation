@@ -15,7 +15,7 @@
 ![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.mov)  
 ![Alert Dialog Demo](alertdialog-ezgif.com-video-to-gif-converter.gif)  
 ![Drawer Demo](drawer-ezgif.com-video-to-gif-converter.gif)  
-![Confetti Demo](confetti-ezgif.com-video-to-gif.mov)  
+![Confetti Demo](confetti-ezgif.com-video-speed.mov)  
 ![Animate Demo](animate-ezgif.com-video-to-gif-converter.mov)  
 ![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.mov)  
 ![Page View Demo](pageView-ezgif.com-video-to-gif-converter.mov)  
