@@ -13,15 +13,15 @@
 
 
 
-![Alert Dialog Demo](taskins-screens/alertdialog-ezgif.com-video-to-gif-converter.gif)  
-![Drawer Demo](taskins-screens/drawer-ezgif.com-video-to-gif-converter.gif)  
-![Confetti Demo](taskins-screens/confetti-ezgif.com-video-to-gif-converter.gif)  
-![Splash Screen Demo](taskins-screens/splashScreen-ezgif.com-video-to-gif-converter.gif)  
-![Animate Demo](taskins-screens/animate-ezgif.com-video-to-gif-converter.gif)  
-![Login/Sign Up Demo](taskins-screens/loginSignUp-ezgif.com-video-to-gif-converter.gif)  
-![Navbar Demo](taskins-screens/NaVbar-ezgif.com-video-to-gif-converter.gif)  
-![Page View Demo](taskins-screens/pageView-ezgif.com-video-to-gif-converter.gif)  
-![Bottom Sheet Demo](taskins-screens/bottomsheet-ezgif.com-video-to-gif-converter.gif)  
+![Alert Dialog Demo](alertdialog-ezgif.com-video-to-gif-converter.gif)  
+![Drawer Demo](drawer-ezgif.com-video-to-gif-converter.gif)  
+![Confetti Demo](confetti-ezgif.com-video-to-gif-converter.gif)  
+![Splash Screen Demo](splashScreen-ezgif.com-video-to-gif-converter.gif)  
+![Animate Demo](animate-ezgif.com-video-to-gif-converter.gif)  
+![Login/Sign Up Demo](loginSignUp-ezgif.com-video-to-gif-converter.gif)  
+![Navbar Demo](NaVbar-ezgif.com-video-to-gif-converter.gif)  
+![Page View Demo](pageView-ezgif.com-video-to-gif-converter.gif)  
+![Bottom Sheet Demo](bottomsheet-ezgif.com-video-to-gif-converter.gif)  
 
 
 
