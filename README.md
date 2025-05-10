@@ -13,10 +13,10 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<video width="300" controls>
+<gif width="300" controls>
   <source src="taskins-screens/Navbar.mp4" type="video/mp4">
 
-</video>
+</gif>
 
 <video width="300" controls>
   <source src="taskins-screens/alertdialog.mp4" type="video/mp4">
