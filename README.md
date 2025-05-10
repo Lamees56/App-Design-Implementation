@@ -11,20 +11,20 @@
 
 ## 🎥 Taskins Screens
 
-### 🎥 Taskins Screen Demos
+<div style="display: flex; flex-wrap: nowrap; gap: 15px; overflow-x: auto;">
 
-<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
-
-<img src="taskins-screens/alertdialog-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/drawer-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/confetti-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/splashScreen-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/animate-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/loginSignUp-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/NaVbar-ezgif.com-video-to-gif-converter.gif" width="300">
-<img src="taskins-screens/pageView-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/alertdialog-ezgif.com-video-to-gif-converter.gif" width="300" alt="Alert Dialog">
+<img src="taskins-screens/drawer-ezgif.com-video-to-gif-converter.gif" width="300" alt="Drawer">
+<img src="taskins-screens/confetti-ezgif.com-video-to-gif-converter.gif" width="300" alt="Confetti">
+<img src="taskins-screens/splashScreen-ezgif.com-video-to-gif-converter.gif" width="300" alt="Splash Screen">
+<img src="taskins-screens/animate-ezgif.com-video-to-gif-converter.mov" width="300" alt="Animate">
+<img src="taskins-screens/loginSignUp-ezgif.com-video-to-gif-converter.mov" width="300" alt="Login/Sign Up">
+<img src="taskins-screens/NaVbar-ezgif.com-video-to-gif-converter.mov" width="300" alt="Navbar">
+<img src="taskins-screens/pageView-ezgif.com-video-to-gif-converter.mov" width="300" alt="Page View">
+<img src="taskins-screens/bottomsheet-ezgif.com-video-to-gif-converter.mov" width="300" alt="Bottom Sheet">
 
 </div>
+
 
 
 
