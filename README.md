@@ -13,59 +13,19 @@
 
 ### 🎥 Taskins Screen Demos
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
-<div>
-<h4>Navbar</h4>
-<img src="taskins-screens/Navbar.gif" width="300">
-</div>
-
-<div>
-<h4>Alert Dialog</h4>
-<img src="taskins-screens/alertdialog.gif" width="300">
-</div>
-
-<div>
-<h4>Animate</h4>
-<img src="taskins-screens/animate.gif" width="300">
-</div>
-
-<div>
-<h4>Bottom Sheet</h4>
-<img src="taskins-screens/bottomsheet.gif" width="300">
-</div>
-
-<div>
-<h4>Confetti</h4>
-<img src="taskins-screens/confetti.gif" width="300">
-</div>
-
-<div>
-<h4>Drawer</h4>
-<img src="taskins-screens/drawer.gif" width="300">
-</div>
-
-<div>
-<h4>Login/Sign Up</h4>
-<img src="taskins-screens/loginSignUp.gif" width="300">
-</div>
-
-<div>
-<h4>Page View</h4>
-<img src="taskins-screens/pageView.gif" width="300">
-</div>
-
-<div>
-<h4>Splash Screen</h4>
-<img src="taskins-screens/splashScreen.gif" width="300">
-</div>
-
-<div>
-<h4>Tabs</h4>
-<img src="taskins-screens/tabs.gif" width="300">
-</div>
+<img src="taskins-screens/alertdialog-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/drawer-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/confetti-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/splashScreen-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/animate-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/loginSignUp-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/NaVbar-ezgif.com-video-to-gif-converter.gif" width="300">
+<img src="taskins-screens/pageView-ezgif.com-video-to-gif-converter.gif" width="300">
 
 </div>
+
 
 
 
